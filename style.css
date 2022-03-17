@@ -1,0 +1,21 @@
+
+body {
+    padding: 10px;
+
+    text-align: center;
+}
+
+input {
+    margin: 10px 0px;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+
+    padding: 30px 0px;
+}
+
+div button {
+    padding: 10px 10px;
+}
